@@ -20,7 +20,7 @@ const data = {
             imageb: "/images/p2b.jpg",
             imagef: "/images/p2f.jpg",
             price: 385,
-            countInStock: 10,
+            countInStock: 0,
             brand: "Darjeeling",
             rating: 4.0,
             numReviews: 1,
