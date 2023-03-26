@@ -1,6 +1,7 @@
 const data = {
     products: [
         {
+            _id: '1',
             name: "Gopaldhara Darjeeling Romance",
             slug: "Te-Gopaldhara-Darjeeling-Romance",
             category: "Premium White Tea",
@@ -14,19 +15,21 @@ const data = {
             decription: "This is one of the refreshing and premium White Tea from Gopaldhara Tea Estate, cultivated in the picturesque slopes of the Darjeeling Hills at altitudes up to 7000 ft (2000 meter), which undergo gentle processing to produce this gourmet white tea."
         },
         {
+            _id: '2',
             name: "Darjeeling Green Tea Broken",
             slug: "Te-Darjeeling-Green-Tea-Broken",
             category: "Regular Series Tea",
             imageb: "/images/p2b.jpg",
             imagef: "/images/p2f.jpg",
             price: 385,
-            countInStock: 0,
+            countInStock: 10,
             brand: "Darjeeling",
             rating: 4.0,
             numReviews: 1,
             decription: "The Darjeeling green tea broken are made during the rolling and sorting of the tea. Since the tea has already been thoroughly steamed even though it is small in size it is still very pleasing to drink. "
         },
         {
+            _id: '3',
             name: "Rohini Autumn Moonlight White Oolong",
             slug: "Te-Rohini-Autumn-Moonlight-White-Oolong",
             category: "Classic Series Tea",
@@ -40,6 +43,7 @@ const data = {
             decription: "This is a delicate & refreshing white oolong tea from Rohini Tea Estate, we have named this tea Moonlight White Oolong because it is mostly processed like any other white tea except that it is fixed & gently rolled at the end. "
         },
         {
+            _id: '4',
             name: "Darjeeling Earl Grey Black",
             slug: "Te-Darjeeling-Earl-Grey-Black",
             category: "Regular Series Tea",
